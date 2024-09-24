@@ -1,3 +1,3 @@
 # GITT
 
-<p> This is first repo</p>
+<p> This is first repository</p>
